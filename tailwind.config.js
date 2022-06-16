@@ -1,10 +1,11 @@
 module.exports = {
   content: ["./src/**/*.{html,js}"],
-  darkMode: 'class',
+  darkMode: 'media',
   theme: {
     extend: {},
   },
   plugins: [
-    require('flowbite/plugin')
+    require('flowbite/plugin'),
+
   ],
 }

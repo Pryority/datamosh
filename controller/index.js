@@ -39,6 +39,4 @@ const getArtData = () => {
     ]
 }
 
-
-
 module.exports = router;
